@@ -21,17 +21,6 @@ Understanding these relationships is crucial for **astrophysics and exoplanetary
 	•	scikit-learn (for modeling)
 	•	Jupyter Notebooks for analysis and visualization
 
-## Project Structure
-
-exoplanet-host-star-analysis/
-├── data/               # Raw and cleaned datasets
-├── notebooks/          # Jupyter notebooks for exploration and modeling
-├── visuals/            # Plots and figures
-├── reports/            # Summary reports and case studies
-├── references/         # Links and documentation
-├── README.md           # Project overview and instructions
-└── requirements.txt    # Python dependencies
-
 ## Methodology
 	1.	Data acquisition and cleaning
 	2.	Exploratory data analysis (statistical summaries, visualizations)
