@@ -8,9 +8,9 @@ This report presents a foundational analysis of 50 recently discovered exoplanet
 	•	Size: 50 exoplanets with 8 key features: planet name, discovery method, discovery year, orbital period, radius, mass, equilibrium temperature, and host star spectral type.
 	•	Data quality: No missing values; wide ranges in radius (0.7–20.8 Earth radii) and mass (0.5–9,000 Earth masses).
 	•	New columns added:
-	    •	hostname (star system name),
-    	•	planet_count (number of planets in system),
-	    •	temp_category (temperature bins: Cool, Medium, Hot).
+	hostname (star system name),
+    	planet_count (number of planets in system),
+	temp_category (temperature bins: Cool, Medium, Hot).
 
 ### Insights from Key Visualizations and Data
 
@@ -64,9 +64,9 @@ Although host star properties were not directly analyzed here, inferred biases s
 
 	•	The exoplanet population discovered recently is dominated by small, rocky or Neptune-like planets and large, highly irradiated gas giants.
 	•	Discovery methods significantly bias the types of planets detected:
-    	•	Transit surveys excel at finding smaller, close-in planets with short orbital periods.
-    	•	Imaging uncovers massive, large-radius planets at wider orbital separations.
-    	•	Radial velocity tends to find massive planets close to stars but is underrepresented here.
+    			Transit surveys excel at finding smaller, close-in planets with short orbital periods.
+    			Imaging uncovers massive, large-radius planets at wider orbital separations.
+    			Radial velocity tends to find massive planets close to stars but is underrepresented here.
 	•	Temporal trends reflect both external constraints (missions, global disruptions) and internal shifts in research priorities.
 	•	Evidence suggests planet radius and mass are influenced by equilibrium temperature, highlighting the role of stellar irradiation in atmospheric inflation.
 	•	Future analyses should integrate orbital period, host star mass/type, and discovery method classification for deeper insight.
